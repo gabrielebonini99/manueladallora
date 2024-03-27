@@ -115,18 +115,12 @@ body {
 
 .gallery {
  display: flex;
- justify-content: center;
  gap: 10px;
  margin-bottom: 41px;
 }
 
 .media {
- max-width: 300px;
- overflow: hidden;
- position: relative;
  display: flex;
- justify-content: center;
- align-items: center;
  border: 3px solid #eaeaea
 }
 
@@ -347,8 +341,8 @@ body {
 }
 
 .gallery {
- margin-left: 45px;
- margin-right: 45px;
+ margin-left: 25px;
+ margin-right: 25px;
 }
 
 .call-to-action {
