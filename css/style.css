@@ -347,8 +347,8 @@ body {
 }
 
 .gallery {
- margin-left: 45px;
- margin-right: 45px;
+ margin-left: 25px;
+ margin-right: 25px;
 }
 
 .call-to-action {
@@ -424,7 +424,6 @@ body {
 }
 
 .media {
- max-width: 95%;
  margin-left: auto;
  margin-right: auto;
  margin-bottom: 35px;
