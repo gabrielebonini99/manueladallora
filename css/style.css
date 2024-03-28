@@ -240,6 +240,10 @@ body {
  font-weight: 300;
 }
 
+.section-one p.text {
+ margin-bottom: 5px;
+}
+
 .section-one span, .section-two span {
  font-weight: 300;
 }
