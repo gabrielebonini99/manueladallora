@@ -223,6 +223,10 @@ body {
  outline: 1px solid #dcdcdc;
 }
 
+.section-one h4 {
+ font-size: 18px;
+}
+
 .section-one p, .section-two p {
  font-weight: 300;
 }
