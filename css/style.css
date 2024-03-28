@@ -224,7 +224,15 @@ body {
 }
 
 .section-one h4 {
+ font-size: 20px;
+ font-weight: 400;
+ margin-bottom: 10px;
+}
+
+.section-one h5 {
  font-size: 18px;
+ font-weight: 400;
+ margin-bottom: 5px;
 }
 
 .section-one p, .section-two p {
