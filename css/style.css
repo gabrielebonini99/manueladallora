@@ -248,6 +248,10 @@ body {
  margin-bottom: 15px;
 }
 
+.section-one p.text-three {
+ margin-top: 5px;
+}
+
 .section-one span, .section-two span {
  font-weight: 300;
 }
