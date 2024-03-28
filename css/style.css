@@ -408,7 +408,7 @@ body {
  display: block;
 }
 
-.footer-mobile p {
+.footer-mobile .text {
  padding-bottom: 20px;
 }
 
