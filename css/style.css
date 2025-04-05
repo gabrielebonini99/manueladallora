@@ -13,7 +13,7 @@ body {
  background-color: #f7f7f7;
 }
 
-.dl[overlay=blur]~body, .dl[overlay=color]~body {
+.fh[overlay=blur]~body, .fh[overlay=color]~body {
  pointer-events: auto !important;
 }
 
